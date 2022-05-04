@@ -1,0 +1,10 @@
+name: Taghunt
+version: '${project.version}'
+main: me.superbility.taghunt.Main
+api-version: 1.16
+commands:
+  taghunt:
+    description: Main command
+    usage: /<command>
+    aliases: th
+    permission: taghunt.admin

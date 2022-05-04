@@ -1,0 +1,9 @@
+# Runner head-start
+# Changes how long the runner has before the hunter is released.
+# Measured in seconds
+runnerHeadstart: 10
+
+# Game coundown time
+# Changes the time before players load into the game
+# Measured in seconds
+gameCountdownTime: 5
